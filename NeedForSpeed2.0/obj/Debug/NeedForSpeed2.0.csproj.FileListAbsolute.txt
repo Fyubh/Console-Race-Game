@@ -1,0 +1,14 @@
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.exe.config
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.exe
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.pdb
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.csprojAssemblyReference.cache
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.csproj.CoreCompileInputs.cache
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.exe
+C:\Users\ДжумагуловЖ\source\repos\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.pdb
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.csprojAssemblyReference.cache
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.exe
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\obj\Debug\NeedForSpeed2.0.pdb
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.exe.config
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.exe
+C:\Users\zhang\Desktop\NeedForSpeed2.0\NeedForSpeed2.0\bin\Debug\NeedForSpeed2.0.pdb
